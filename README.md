@@ -4,4 +4,4 @@ Oficial repository for the the club: Explorando los sentidos: ¡Ciencia y tecnol
 Clubes de Ciencia México 2016.
 Guanajuato, Guanajuato.
 
-Visit the website: https://rodolfoferro.github.io/ExplorandoLosSentidos/
+Visit the website: [https://rodolfoferro.github.io/ExplorandoLosSentidos/](https://rodolfoferro.github.io/ExplorandoLosSentidos/)
